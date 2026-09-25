@@ -59,10 +59,6 @@ src/
 - [ ] Add search/filter functionality
 - [ ] Form validation (prevent empty notes)
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 Built with ❤️ by [Khushi Singh](https://github.com/Singhkhushi-17)
